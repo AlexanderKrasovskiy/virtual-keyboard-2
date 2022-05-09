@@ -20,7 +20,7 @@ function composeBasicElement(tagString, classesArr, text = '') {
   if (tagString === 'a') {
     el.setAttribute(
       'href',
-      'https://github.com/AlexanderKrasovskiy/virtual-keyboard'
+      'https://github.com/AlexanderKrasovskiy/virtual-keyboard-2'
     );
   }
 
